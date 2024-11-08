@@ -1,4 +1,4 @@
-function mostra resultado ()
+function mostraresultado ()
 {
     var numero1= 10;
     var numero2= 15;
